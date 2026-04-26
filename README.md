@@ -8,7 +8,7 @@ Python Implementation: 100% Python codebase for easy integration and customizati
 Security First: Prevents spoofing attacks and unauthorized access.
 Easy to Use: Simple setup and intuitive workflow.
 🔧 Installation
-git clone https://github.com/Ravuri-Jeetu/Face_Liveness_Detection_using-YOLOv8.git
+git clone https://github.com/SNEHA-1014/FACE-LIVENESS-DETECTION-USING-YOLOv8.git
 cd Face_Liveness_Detection_using-YOLOv8
 pip install -r requirements.txt
 💡 Usage
