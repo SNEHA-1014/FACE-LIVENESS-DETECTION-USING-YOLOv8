@@ -28,9 +28,6 @@ This project uses **YOLOv8**, a state-of-the-art object detection model, to perf
 
 ## 🧠 Tech Stack
 
-- :contentReference[oaicite:0]{index=0}  
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}  
 - Deep Learning  
 - Computer Vision  
 
@@ -42,3 +39,28 @@ This project uses **YOLOv8**, a state-of-the-art object detection model, to perf
 git clone https://github.com/SNEHA-1014/FACE-LIVENESS-DETECTION-USING-YOLOv8.git
 cd FACE-LIVENESS-DETECTION-USING-YOLOv8
 pip install -r requirements.txt
+
+FACE-LIVENESS-DETECTION-USING-YOLOv8/
+│── main.py              # Main execution file
+│── models/              # Pre-trained YOLOv8 models
+│── utils/               # Helper functions
+│── requirements.txt     # Dependencies
+│── README.md            # Documentation
+
+🎯 Applications
+
+🔓 Secure Login Systems
+🏦 Banking Authentication
+📱 Mobile Face Unlock
+🏢 Office Attendance Systems
+🛡️ Fraud Prevention Systems
+📈 Future Enhancements
+🌐 Web App Integration
+📱 Mobile Deployment
+🎭 Advanced Anti-Spoofing Detection
+☁️ Cloud-Based Authentication APIs
+
+
+👩‍💻 Author
+Sneha
+🔗 GitHub: GitHub @SNEHA-1014
