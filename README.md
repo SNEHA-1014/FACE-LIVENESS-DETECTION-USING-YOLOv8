@@ -33,20 +33,6 @@ This project uses **YOLOv8**, a state-of-the-art object detection model, to perf
 
 ---
 
-## 🔧 Installation
-
-```bash
-git clone https://github.com/SNEHA-1014/FACE-LIVENESS-DETECTION-USING-YOLOv8.git
-cd FACE-LIVENESS-DETECTION-USING-YOLOv8
-pip install -r requirements.txt
-
-FACE-LIVENESS-DETECTION-USING-YOLOv8/
-│── main.py              # Main execution file
-│── models/              # Pre-trained YOLOv8 models
-│── utils/               # Helper functions
-│── requirements.txt     # Dependencies
-│── README.md            # Documentation
-
 🎯 Applications
 
 🔓 Secure Login Systems
@@ -64,3 +50,19 @@ FACE-LIVENESS-DETECTION-USING-YOLOv8/
 👩‍💻 Author
 Sneha
 🔗 GitHub: GitHub @SNEHA-1014
+
+
+## 🔧 Installation
+
+```bash
+git clone https://github.com/SNEHA-1014/FACE-LIVENESS-DETECTION-USING-YOLOv8.git
+cd FACE-LIVENESS-DETECTION-USING-YOLOv8
+pip install -r requirements.txt
+
+FACE-LIVENESS-DETECTION-USING-YOLOv8/
+│── main.py              # Main execution file
+│── models/              # Pre-trained YOLOv8 models
+│── utils/               # Helper functions
+│── requirements.txt     # Dependencies
+│── README.md            # Documentation
+
